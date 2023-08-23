@@ -1,5 +1,5 @@
 # Stop-Yelling-Reborn
-Stop Yelling Already was a mod that would allow you to configure which types of voicelines characters would use in-game, either the voice lines you yell during Assault waves ("loud" lines) or only use the less shout-y lines used in between Assault waves ("calm" lines). This is a restoration of this mod to make it working as intended, as well as a few tweaks to make the mod more consistent.
+[Stop Yelling Already](https://pdmods-arc.berigora.net/paydaymods.com/mods/416/stopyelling.html) was a mod that would allow you to configure which types of voicelines characters would use in-game, either the voice lines you yell during Assault waves ("loud" lines) or only use the less shout-y lines used in between Assault waves ("calm" lines). This is a restoration of this mod to make it working as intended, as well as a few tweaks to make the mod more consistent.
 
 Features:
 
